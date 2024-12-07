@@ -2,3 +2,4 @@ Initial commit
 Second commit
 Third commit
 Feature commit 1
+Feature commit 2
